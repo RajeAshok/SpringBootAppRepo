@@ -5,9 +5,15 @@ import java.math.BigInteger;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.Table;
 
 @Entity
+@Table(name="Greeting")
 public class Greeting {
+	
+	public Greeting(){
+		
+	}
 
 	@Id
 	@GeneratedValue

@@ -1,5 +1,6 @@
+com\codePractice\myapp\ws\repository\GreetingRepository.class
 com\codePractice\myapp\service\GreetingService.class
 com\codePractice\myapp\web\api\GreetingController.class
-com\codePractice\myapp\Application.class
 com\codePractice\myapp\service\GreetingServiceBean.class
+com\codePractice\myapp\Application.class
 com\codePractice\myapp\ws\model\Greeting.class
